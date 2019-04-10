@@ -1,0 +1,12 @@
+C:\Users\CHAOCHEN\documents\visual studio 2017\Projects\xml111\xml111\bin\Release\xml111.exe.config
+C:\Users\CHAOCHEN\documents\visual studio 2017\Projects\xml111\xml111\bin\Release\xml111.exe
+C:\Users\CHAOCHEN\documents\visual studio 2017\Projects\xml111\xml111\bin\Release\xml111.pdb
+C:\Users\CHAOCHEN\documents\visual studio 2017\Projects\xml111\xml111\bin\Release\NPOI.dll
+C:\Users\CHAOCHEN\documents\visual studio 2017\Projects\xml111\xml111\bin\Release\NPOI.OOXML.dll
+C:\Users\CHAOCHEN\documents\visual studio 2017\Projects\xml111\xml111\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\CHAOCHEN\documents\visual studio 2017\Projects\xml111\xml111\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\CHAOCHEN\documents\visual studio 2017\Projects\xml111\xml111\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\CHAOCHEN\documents\visual studio 2017\Projects\xml111\xml111\bin\Release\NPOI.xml
+C:\Users\CHAOCHEN\documents\visual studio 2017\Projects\xml111\xml111\obj\Release\xml111.csprojResolveAssemblyReference.cache
+C:\Users\CHAOCHEN\documents\visual studio 2017\Projects\xml111\xml111\obj\Release\xml111.exe
+C:\Users\CHAOCHEN\documents\visual studio 2017\Projects\xml111\xml111\obj\Release\xml111.pdb
